@@ -7,6 +7,14 @@ http://moneclipse.com/
 
 ![](img/plateforme.png)
 
+## Clone des projets de l'atelier
+
+Cloner les projest de test depuis l'adresse suivante
+
+```
+git clone https://github.com/kamel2k/devsecops-lab.git
+```
+
 ## Paramétrage Sonar
 
 ### Installation
