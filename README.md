@@ -3,7 +3,7 @@
 
 La plateforme DevSecOps est accéssible à l'adresse suivante
 
-[moneclipse.com](http://moneclipse.com/){:target="_blank"}
+[http://moneclipse.com/](http://moneclipse.com/)
 
 ![](img/plateforme.png)
 
@@ -21,7 +21,7 @@ git clone https://github.com/kamel2k/devsecops-lab.git
 
 Télécharger et Installer sonar-scanner selon le système d'exploitation de votre machine
 
-https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
+[https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
 
 Voici la commande pour MacOS
 
@@ -218,7 +218,7 @@ Aucune configuration nécessaire
 
 Telecharger et installer nexus-iq-cli selon le systeme d'exploitation de votre machine
 
-https://help.sonatype.com/iqserver/product-information/download-and-compatibility#DownloadandCompatibility-CLI
+[https://help.sonatype.com/iqserver/product-information/download-and-compatibility#DownloadandCompatibility-CLI](https://help.sonatype.com/iqserver/product-information/download-and-compatibility#DownloadandCompatibility-CLI)
 
 Voici les commandes pour MacOS
 
