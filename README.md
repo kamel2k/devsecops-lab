@@ -3,7 +3,7 @@
 
 La plateforme DevSecOps est accéssible à l'adresse suivante
 
-[http://moneclipse.com/](moneclipse.com){:target="_blank"}
+[moneclipse.com](http://moneclipse.com/){:target="_blank"}
 
 ![](img/plateforme.png)
 
