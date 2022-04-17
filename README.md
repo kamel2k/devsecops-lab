@@ -5,6 +5,8 @@ La plateforme DevSecOps est accéssible à l'adresse suivante
 
 http://moneclipse.com/
 
+![](img/plateforme.png)
+
 ## Paramétrage Sonar
 
 ### Installation
