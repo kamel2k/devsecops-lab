@@ -7,7 +7,7 @@ http://moneclipse.com/
 
 ![](img/plateforme.png)
 
-## Clone des projets de l'atelier
+## Clone des projets du lab
 
 Cloner les projest de test depuis l'adresse suivante
 
