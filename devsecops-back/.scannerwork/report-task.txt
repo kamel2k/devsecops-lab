@@ -1,0 +1,6 @@
+projectKey=gainde-backend:mkhediri
+serverUrl=http://sonar.moneclipse.com
+serverVersion=9.3.0.51899
+dashboardUrl=http://sonar.moneclipse.com/dashboard?id=gainde-backend%3Amkhediri
+ceTaskId=AYA8kr_llvIK_S0ugAtF
+ceTaskUrl=http://sonar.moneclipse.com/api/ce/task?id=AYA8kr_llvIK_S0ugAtF

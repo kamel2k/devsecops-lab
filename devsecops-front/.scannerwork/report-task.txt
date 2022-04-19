@@ -1,0 +1,6 @@
+projectKey=angular-app:mkhediri
+serverUrl=http://sonar.moneclipse.com
+serverVersion=9.3.0.51899
+dashboardUrl=http://sonar.moneclipse.com/dashboard?id=angular-app%3Amkhediri
+ceTaskId=AYA8kyFelvIK_S0ugAtR
+ceTaskUrl=http://sonar.moneclipse.com/api/ce/task?id=AYA8kyFelvIK_S0ugAtR
